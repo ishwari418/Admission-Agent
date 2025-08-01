@@ -1,0 +1,33 @@
+Great! You’re ready to upload your Admission Agent project (built using IBM watsonx.ai) to GitHub — well done! Here's how to clearly summarize what you’ve used and done so far, and what project files and documentation to include for GitHub.
+
+✅ What You’ve Used in Your Project
+You can include the following list in your README.md file (your GitHub project description):
+
+📌 Project Title
+Admission Agent using IBM watsonx.ai (RAG with Vectorized Documents)
+
+🧠 Project Description
+This AI-powered Admission Agent helps users get answers related to admission processes such as eligibility, required documents, application deadlines, and guidelines. It combines document-based retrieval with language generation using IBM watsonx.ai Studio tools.
+
+🚀 Features
+Accepts user queries related to admission info.
+
+Retrieves answers from uploaded documents (.txt, .pdf, etc.).
+
+Provides helpful information using Granite LLM.
+
+Built entirely on IBM watsonx.ai Agent Lab.
+
+Uses Retrieval-Augmented Generation (RAG) pattern.
+
+Optimized for low-code development using Watson tools.
+
+🛠 Technologies Used
+Tool / Service	Purpose
+IBM Watsonx.ai	Main platform to build the agent
+IBM Agent Lab	No-code/low-code interface to create the AI agent
+Grounded generation (RAG)	Used for combining document retrieval + answer generation
+Granite Language Model	LLM used to generate step-by-step admission help
+Vectorized Document Indexing	For searching knowledge base files
+.txt / .pdf files	Contained custom admission data uploaded via UI
+Browser (Edge/Chrome)	For development & testing
