@@ -1,0 +1,290 @@
+1. University Overview
+
+Name: Insight Institute of Technology (IITech)
+
+Founded: 1950, Public Autonomous University, accredited A++ by NAAC
+
+Location: Urban campus with modern infrastructure and transport connectivity
+
+
+
+---
+
+2. Admission Process & Eligibility
+
+Levels: Undergraduate (B.Tech, B.Sc, BBA), Postgraduate (M.Tech, MBA, M.Sc)
+
+Eligibility (UG): 60% in Class XII with Physics, Chemistry, Maths; JEE-Advanced score mandatory
+
+Eligibility (PG): Bachelor’s degree and GATE/CAT/MAT
+
+Deadlines:
+
+JEE Advance cutoff: June 30
+
+Application open: June 1–July 15
+
+Final offers: September 1
+
+
+Process Steps:
+
+1. Register online → personal & academic details
+
+
+2. Submit supporting documents & payment
+
+
+3. Appear for entrance test/interview (if required)
+
+
+4. Offer release with seat confirmation
+
+
+
+FAQs: Refund & withdrawal policy, gap years, leave of absence, international candidate process
+
+
+
+---
+
+3. Programs & Syllabus
+
+Undergraduate:
+
+B.Tech in AI & ML, Computer Science, Electronics, Mechanical
+
+Duration: 4 years, annual exams + project
+
+
+Postgraduate:
+
+M.Tech, MBA, M.Sc in Data Science, Cybersecurity
+
+Duration: 2 years
+
+
+*Sample Modules (AI & ML B.Tech):*
+
+Sem I: Calculus, Programming, Physics, Basic Electronics
+
+Sem II: Data Structures, Statistics, Object-Oriented Programming
+
+Sem V–VIII: Machine Learning, Deep Learning, NLP, Project
+
+
+
+
+---
+
+4. Scholarships & Financial Aid
+
+Merit Scholarship: Top 10% in JEE—tuition fees waived
+
+Need-Based Aid: Family income ≤ ₹6 lakhs/year—partial tuition waiver or loans
+
+Special Categories: Women in Tech Scholarship, Physically Challenged Scholarship
+
+Renewal Criteria: Minimum 75% attendance, 8.0 CGPA annually
+
+
+
+---
+
+5. Campus & Student Life
+
+Hostel:
+
+Separate hostels for men and women, 500-bed capacity
+
+Facilities: Mess, laundry, gym, playground, common rooms, Wi-Fi
+
+Allocation: From 2nd year, based on distance + merit
+
+
+Mess:
+
+Veg & non-veg rotating menu, ₹6,000/month
+
+Special diets on request (e.g., diabetic, Jain)
+
+
+Sports & Culture: Football, cricket, badminton, cultural fests, technical clubs like AI/ML club, Hackathons, annual tech symposium
+
+
+
+---
+
+6. Support & Guidance
+
+Admission Counsellors: Help with applications, FAQs, and appeals
+
+Academic Advisors: Department-wise mentors for course planning
+
+Career Services: Internship placements, mock interviews, resume reviews
+
+
+
+---
+
+7. Key FAQs
+
+Q1: Can I apply for multiple programs?
+A1: Yes. One application covers all; specify choices in your profile form.
+
+Q2: What is the refund policy?
+A2: 75% refund before July 20, 50% until August 15, none after that.
+
+Q3: What are minimum entrance scores?
+A3: JEE rank ≤ 50,000 required for core branches; others have relaxed cutoffs.
+
+
+1. University Overview & Contact
+
+Name: Sunrise University of Technology (SUTech)
+
+Location: Pune, Maharashtra, established 1965, NAAC A+ accredited
+
+Contact: Tel: +91 20 1234 5678 | Email: admissions@sutech.edu.in
+
+
+
+---
+
+2. Admission Process & Deadlines
+
+Levels: UG (B.Tech, B.Sc), PG (M.Tech, MBA), PhD
+
+UG Eligibility: ≥ 60% in Class XII (PCM) + JEE Mains + SUTech Online Aptitude Test
+
+PG Eligibility: GATE/CMAT + Bachelor's degree with ≥55%
+
+Admission Steps:
+
+1. Register online
+
+
+2. Submit documents & fees
+
+
+3. Take entrance test/interview (PG)
+
+
+4. Seat allocation & confirmation
+
+
+
+Important Dates:
+
+Application Opens: April 1
+
+UG Deadline: June 15
+
+PG Deadline: July 31
+
+Final Offers: August 30
+
+
+Document Checklist: Class XII marksheet, JEE/GATE scorecard, category certificate, photo, SAT 2/English test for internationals
+
+
+
+---
+
+3. Academic Programs & Fees
+
+Undergraduate Programs:
+
+B.Tech: CSE‑AI/ML, ECE, Mechanical, Civil
+
+B.Sc: Data Science, Physics, Chemistry
+
+
+Postgraduate Programs:
+
+M.Tech in AI, Cybersecurity
+
+MBA (Marketing, Finance), M.Sc. in Data Analytics
+
+
+Fees (per year):
+
+B.Tech: ₹2.4 Lakhs
+
+M.Tech/M.Sc: ₹1.8 Lakhs
+
+MBA: ₹3.2 Lakhs
+
+
+Core Syllabus Sample (CSE‑AI/ML):
+
+Year 1: Calculus, OOP, Data Structures, Physics
+
+Year 2: DBMS, Stats, Computer Networks
+
+Year 3/4: ML, Deep Learning, NLP, Capstone Project
+
+
+
+
+---
+
+4. Scholarships & Financial Aid
+
+Merit Scholarship: 25%–100% tuition waiver for top JEE ranks
+
+Need-Based Aid: Annual family income ≤ ₹5 L: up to 50% fee waiver
+
+Special Scholarships: Women in Tech, Sports Excellence
+
+Renewal Rules: Maintain ≥7.5 CGPA and ≥75% attendance
+
+
+
+---
+
+5. Campus & Student Life
+
+Hostel: Co-ed block, 700 bed capacity, Wi‑Fi, gym, study halls
+
+Mess: Veg & non‑veg, rotating menu, special diets (₹5,500/month)
+
+Facilities: Central library, robotics lab, auditorium, indoor stadium
+
+Extracurricular:
+
+🎭 Culture Fest “PrismTech”
+
+🏅 AI/ML club, FPGA Hackathons, Tech Symposium
+
+Sports: Cricket, badminton, table tennis
+
+
+
+
+---
+
+6. Support Services & Student Guidance
+
+Counselling: Dedicated admission counselors and international student desk
+
+Academic Support: Peer tutors, writing centre, lab support
+
+Career & Internships: Industry tie-ups, AI hackathons, mock interviews, resume workshops
+
+Alumni Network: Alumni mentorship and placement referral program
+
+
+
+---
+
+7. Typical FAQs
+
+Question	Answer
+
+Do I need JEE for admission?	Yes, along with SUTech Aptitude Test
+Can alumni donate fee?	Yes – 25% alumni loyalty discount
+Refund policy?	80% refund until July 15; none after August 1
+Can I apply for multiple branches?	Yes, priority order accepted online
+What’s the hostel allocation criteria?	Based on distance and academic rank
+Are internships compulsory?	Yes, a minimum 6-week internship is mandatory for all UG programs
