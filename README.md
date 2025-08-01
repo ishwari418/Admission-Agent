@@ -28,7 +28,8 @@ Uploaded file:
 ## 👩‍💻 Built By
 - Ishwari Belhekar
 - Internship: IBM Edunet Foundation
-- Problem Statement #16 – Recipe Advisor turned Custom Agent (Admission Info)
+- Problem Statement #4 – A college admission agent, powered by RAG streamlines the student admission process
+
 
 
 ## 📜 License
